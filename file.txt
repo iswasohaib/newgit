@@ -3,3 +3,5 @@ This line is also written in main branch.
 
 This line creates feature 2
 This line also creates freature 2
+
+This line is also feature 2
