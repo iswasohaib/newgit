@@ -1,5 +1,12 @@
 This line is written in main branch.
 This line is also written in main branch.
 
+<<<<<<< HEAD
 This line represents feature 1.
 This line also represents feature 1.
+=======
+This line creates feature 2
+This line also creates freature 2
+
+This line is also feature 2
+>>>>>>> feature2
